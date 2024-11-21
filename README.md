@@ -3,4 +3,4 @@
 - CSS
 - JS
 
-  Can you view [my project](https://github.com/hotsauce11/velocity)
+  Can you view [my project](https://hotsauce11.github.io/velocity/)
